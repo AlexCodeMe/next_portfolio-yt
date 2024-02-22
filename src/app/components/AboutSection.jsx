@@ -57,7 +57,7 @@ const AboutSection = () => {
             <div className='mt-4 md:mt-0 text-left flex flex-col h-full'>
                 <h2 className='text-4xl font-bold text-white mb-4'>About Me</h2>
                 <p className='text-base md:text-lg'>
-                    I'm a full stack web developer with an interest in learning new things. I have experience with JavaScript, React, Node.js, Express, MySql, HTML/CSS, and Git. I am a fast learner looking to expand my skill set. I love to work on teams.
+                    I&apos;m a full stack web developer with an interest in learning new things. I have experience with JavaScript, React, Node.js, Express, MySql, HTML/CSS, and Git. I am a fast learner looking to expand my skill set. I love to work on teams.
                 </p>
                 <div className='flex flex-row mt-8 justify-start'>
                     <TabButton 
